@@ -1,18 +1,30 @@
 # cmx-examples
 Getting started with [CrestMuse Toolkit (CMX)](https://github.com/kitaharalab/cmx)
 
-## [CMX with JRE](https://github.com/kitaharalab/cmx-examples/tree/jre)
+## CMX with JRE
 
-### Gradle
+### Gradle + Java
 
-```
-git clone -b jre-gradle https://github.com/kitaharalab/cmx-examples.git
-```
-
-### Manual
+https://github.com/kitaharalab/cmx-examples/tree/jre-gradle-java
 
 ```
-git clone -b jre https://github.com/kitaharalab/cmx-examples.git
+git clone -b jre-gradle-java https://github.com/kitaharalab/cmx-examples.git
+```
+
+### Gradle + groovy
+
+https://github.com/kitaharalab/cmx-examples/tree/jre-gradle-groovy
+
+```
+git clone -b jre-gradle-groovy https://github.com/kitaharalab/cmx-examples.git
+```
+
+### java -cp
+
+https://github.com/kitaharalab/cmx-examples/tree/jre-cp
+
+```
+git clone -b jre-cp https://github.com/kitaharalab/cmx-examples.git
 ```
 
 <!-- 

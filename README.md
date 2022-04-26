@@ -7,7 +7,7 @@ Getting started with [CrestMuse Toolkit (CMX)](https://github.com/kitaharalab/cm
 ### git clone
 
 ```
-git clone -b jre-gradle https://github.com/kitaharalab/cmx-examples.git
+git clone -b jre-gradle-groovy https://github.com/kitaharalab/cmx-examples.git
 ```
 
 ### Required environment variables

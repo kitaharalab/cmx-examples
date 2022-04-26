@@ -21,10 +21,10 @@ git clone -b jre-gradle-groovy https://github.com/kitaharalab/cmx-examples.git
 
 ### java -cp
 
-https://github.com/kitaharalab/cmx-examples/tree/jre-cp
+https://github.com/kitaharalab/cmx-examples/tree/jre-cp-java
 
 ```
-git clone -b jre-cp https://github.com/kitaharalab/cmx-examples.git
+git clone -b jre-cp-java https://github.com/kitaharalab/cmx-examples.git
 ```
 
 <!-- 

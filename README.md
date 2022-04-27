@@ -2,7 +2,7 @@
 
 Getting started with [CrestMuse Toolkit (CMX)](https://github.com/kitaharalab/cmx)
 
-## [CMX with JRE and Gradle](https://github.com/kitaharalab/cmx-examples/tree/jre-gradle)
+## CMX with JRE and Gradle
 
 ### git clone
 

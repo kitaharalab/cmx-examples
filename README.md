@@ -1,5 +1,13 @@
 # [CMX](https://github.com/kitaharalab/cmx) with JRE
 
-## Gradle
-## Maven
-## Local
+## Build
+
+```Java
+javac -cp libs/* App.java
+```
+
+## Run
+
+```Java
+java -cp lib/*;. App
+```
